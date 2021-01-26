@@ -8,9 +8,8 @@
       }else{
         $errors = "Please enter a  valid fullname";
       }
- 
 
-
+      
    }
 
 ?>
